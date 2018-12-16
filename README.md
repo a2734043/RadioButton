@@ -5,7 +5,7 @@
 
 首先在專案中加入兩個檔案
 
-`RadioButton.swift``RadioButtonController.swift`
+`RadioButton.swift` `RadioButtonController.swift`
 
 ![image1](https://raw.githubusercontent.com/a2734043/RadioButton/master/images/image1.png)
 
